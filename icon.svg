@@ -1,0 +1,24 @@
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="64" cy="64" r="60" fill="#007ACC" stroke="#005A9F" stroke-width="2"/>
+  
+  <!-- Magnifying glass -->
+  <circle cx="52" cy="48" r="20" fill="none" stroke="white" stroke-width="4"/>
+  <line x1="68" y1="64" x2="85" y2="81" stroke="white" stroke-width="4" stroke-linecap="round"/>
+  
+  <!-- Keywords symbols (small circles representing multiple search terms) -->
+  <circle cx="42" cy="38" r="3" fill="white"/>
+  <circle cx="52" cy="35" r="3" fill="white"/>
+  <circle cx="62" cy="38" r="3" fill="white"/>
+  
+  <!-- Search results indicator (small lines) -->
+  <line x1="25" y1="85" x2="45" y2="85" stroke="white" stroke-width="2"/>
+  <line x1="25" y1="92" x2="55" y2="92" stroke="white" stroke-width="2"/>
+  <line x1="25" y1="99" x2="40" y2="99" stroke="white" stroke-width="2"/>
+  
+  <!-- File icon -->
+  <rect x="75" y="85" width="20" height="25" fill="white" rx="2"/>
+  <line x1="78" y1="90" x2="92" y2="90" stroke="#007ACC" stroke-width="1"/>
+  <line x1="78" y1="94" x2="92" y2="94" stroke="#007ACC" stroke-width="1"/>
+  <line x1="78" y1="98" x2="88" y2="98" stroke="#007ACC" stroke-width="1"/>
+</svg>

@@ -1,0 +1,9 @@
+node_modules/
+out/
+*.vsix
+.vscode-test/
+.vscode-test-web/
+coverage/
+**/*.js.map
+.DS_Store
+Thumbs.db
