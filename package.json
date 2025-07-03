@@ -2,7 +2,7 @@
     "name": "multi-keyword-file-search",
     "displayName": "Multi Keyword File Search",
     "description": "Search for files containing multiple keywords anywhere in the file. Support streaming search with real-time results.",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "publisher": "akimixu",
     "author": {
         "name": "akimixu",
