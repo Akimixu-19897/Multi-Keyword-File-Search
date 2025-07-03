@@ -9,6 +9,7 @@
         "email": "1527829777@qq.com"
     },
     "license": "MIT",
+    "icon": "icon.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/your-username/multi-keyword-search.git"
@@ -54,7 +55,7 @@
                 {
                     "id": "multiKeywordSearch",
                     "title": "Multi Keyword Search",
-                    "icon": "$(search-view-icon)"
+                    "icon": "$(search)"
                 }
             ]
         },
