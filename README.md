@@ -109,7 +109,9 @@ vsce package
 
 ## 🤝 贡献
 
-欢迎提交 Issue 和功能请求！请访问我们的 GitHub 仓库。
+欢迎提交 Issue 和功能请求！
+
+**GitHub 仓库**: [https://github.com/Akimixu-19897/Multi-Keyword-File-Search](https://github.com/Akimixu-19897/Multi-Keyword-File-Search)
 
 ## 📄 许可证
 
@@ -227,7 +229,9 @@ vsce package
 
 ## 🤝 Contributing
 
-Issues and feature requests are welcome! Please visit our GitHub repository.
+Issues and feature requests are welcome! 
+
+**GitHub Repository**: [https://github.com/Akimixu-19897/Multi-Keyword-File-Search](https://github.com/Akimixu-19897/Multi-Keyword-File-Search)
 
 ## 📄 License
 
