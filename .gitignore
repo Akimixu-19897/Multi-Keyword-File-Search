@@ -7,3 +7,6 @@ coverage/
 **/*.js.map
 .DS_Store
 Thumbs.db
+
+# YoYo AI version control directory
+.yoyo/
