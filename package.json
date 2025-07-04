@@ -2,7 +2,7 @@
     "name": "multi-keyword-file-search",
     "displayName": "Multi Keyword File Search",
     "description": "Search for files containing multiple keywords anywhere in the file. Support streaming search with real-time results.",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "publisher": "akimixu",
     "author": {
         "name": "akimixu",
@@ -125,7 +125,7 @@
         "build:webview": "cd webview && npm run build",
         "lint": "eslint src --ext ts",
         "package": "vsce package --no-dependencies",
-        "package:version": "npm version patch && vsce package --no-dependencies"
+        "package:version": "npm version patch --no-git-tag-version && vsce package --no-dependencies"
     },
     "devDependencies": {
         "@types/vscode": "^1.74.0",
