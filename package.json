@@ -2,7 +2,7 @@
     "name": "multi-keyword-file-search",
     "displayName": "Multi Keyword File Search",
     "description": "Search for files containing multiple keywords anywhere in the file. Support streaming search with real-time results.",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "publisher": "akimixu",
     "author": {
         "name": "akimixu",
@@ -12,12 +12,12 @@
     "icon": "icon.png",
     "repository": {
         "type": "git",
-        "url": "https://github.com/your-username/multi-keyword-search.git"
+        "url": "https://github.com/Akimixu-19897/Multi-Keyword-File-Search"
     },
     "bugs": {
-        "url": "https://github.com/your-username/multi-keyword-search/issues"
+        "url": "https://github.com/Akimixu-19897/Multi-Keyword-File-Search/issues"
     },
-    "homepage": "https://github.com/your-username/multi-keyword-search#readme",
+    "homepage": "https://github.com/Akimixu-19897/Multi-Keyword-File-Search#readme",
     "engines": {
         "vscode": "^1.74.0"
     },
